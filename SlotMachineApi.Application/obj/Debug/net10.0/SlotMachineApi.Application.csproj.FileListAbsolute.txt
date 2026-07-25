@@ -1,0 +1,15 @@
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\bin\Debug\net10.0\SlotMachineApi.Application.deps.json
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\bin\Debug\net10.0\SlotMachineApi.Application.dll
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\bin\Debug\net10.0\SlotMachineApi.Application.pdb
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\bin\Debug\net10.0\SlotMachineApi.Domain.dll
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\bin\Debug\net10.0\SlotMachineApi.Domain.pdb
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.csproj.AssemblyReference.cache
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.AssemblyInfoInputs.cache
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.AssemblyInfo.cs
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMach.56D87D9D.Up2Date
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.dll
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\refint\SlotMachineApi.Application.dll
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\SlotMachineApi.Application.pdb
+C:\Users\shrey\SlotMachineApi\SlotMachineApi.Application\obj\Debug\net10.0\ref\SlotMachineApi.Application.dll
