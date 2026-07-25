@@ -6,6 +6,7 @@ A .NET 10 Web API with MongoDB that simulates a slot machine backend.
 
 * .NET 10 SDK
 * MongoDB Atlas account (free tier is fine)
+* .NET 10 SDK (download from https://dotnet.microsoft.com/download)
 
 ## Setup
 
